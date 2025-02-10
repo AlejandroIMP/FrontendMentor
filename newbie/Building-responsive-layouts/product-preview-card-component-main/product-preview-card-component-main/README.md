@@ -19,7 +19,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/AlejandroIMP/FrontendMentor/edit/main/newbie/Building-responsive-layouts/product-preview-card-component-main/product-preview-card-component-main/README.md)
+- Solution URL: [GitHub](https://github.com/AlejandroIMP/FrontendMentor/edit/main/newbie/Building-responsive-layouts/product-preview-card-component-main/product-preview-card-component-main/)
 - Live Site URL: [Card Component](https://product-card-component-front.netlify.app/)
 
 ## My process
